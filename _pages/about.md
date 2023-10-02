@@ -11,6 +11,7 @@ redirect_from:
 I am currently a final-year master student from Huazhong University of Science and Technology, advised by [Prof. Yuanzheng Li](https://ieeexplore.ieee.org/author/37085523933). My research interest lie broadly in machine learning, optimization for renewable power systems operation, with a special focus on wind power forecast.
 
 <!-- Recently, I am developing structured neural network-based controllers with provably guarantees on stability and steady-state efficiency for large-scale systems. I’m also working on efficient algorithums to overcome the challenges on sample complexity and explorations in learning for real-world applications (e.g., power systems). -->
+<i class="fa-solid fa-download"></i>[Download my CV](http://jasonmils.github.io/files/Yizhou_CV.pdf)
 
 Research Interest
 -----
@@ -36,4 +37,8 @@ I’m open to any forms of collaborations. We welcome undergraduates, postgradua
 ![Great View in Marina Bay, Singapore](/images/singapore.jpg)
 
 
-
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
