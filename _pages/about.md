@@ -21,7 +21,7 @@ Research Interest
 - energy informatic
 - time series forecast
 
-------
+
 Education Background
 ======
 * B.S. in Communication Engineering, Wuhan University of Technology, 2021
