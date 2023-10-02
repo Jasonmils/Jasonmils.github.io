@@ -5,7 +5,7 @@ Name Name:
   uri         : "jasonmils.github.io"
   email       : "jasondean910@outlook.com"
   bio         : "An introduction."
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "profile.jpg"
   twitter     : "Jason Dean @Jasondean11111"
   google_plus : "https://scholar.google.com/citations?user=ei8WkXgAAAAJ&hl=en"
 
@@ -13,6 +13,6 @@ Name2 Name2:
   name        : "Yizhou (Jason) Ding"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
+  avatar      : "profile.jpg"
   twitter     : "name2"
   google_plus : "Name"
