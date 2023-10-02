@@ -15,8 +15,7 @@ I am currently a final-year master student from Huazhong University of Science a
 Research Interest
 ======
 - machine learning, deep learning
-- federated graph learning
-- representation learning
+- federated graph learning, representation learning
 - renewable power system operation
 - energy informatic
 - time series forecast
