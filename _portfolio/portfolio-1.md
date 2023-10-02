@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Deep learning-based Day-ahead Electricity Price Forecast"
+excerpt: "Short description <br/><img src='/images/Introduction.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Day-ahead Electricity price description:
+
+<br/><img src='/images/Reply_market.png'>
+
+Two salient patterns lie in electricity price:
+* *Temporal variability*: long-term dependencies mixed with short-term one.
+* *Feature-wise variability*: Inject more features may not enhance performance.
+
+<br/><img src='/images/Introduction.png'>
