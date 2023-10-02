@@ -13,21 +13,21 @@ I am currently a final-year master student from Huazhong University of Science a
 <!-- Recently, I am developing structured neural network-based controllers with provably guarantees on stability and steady-state efficiency for large-scale systems. I’m also working on efficient algorithums to overcome the challenges on sample complexity and explorations in learning for real-world applications (e.g., power systems). -->
 
 Research Interest
-======
-- machine learning, deep learning
+-----
+- machine learning, deep learnings
 - federated graph learning, representation learning
 - renewable power system operation
 - energy informatic
 - time series forecast
 
 Education Background
-======
+-----
 * B.S. in Communication Engineering, Wuhan University of Technology, 2021
 * M.S. in Renewable Energy Science & Engineering, Huazhong University of Science and Technology, 2024 (expected)
 * M.S. in Clean and Renewable Energy, Université PSL, 2024 (expected)
 
 Collaboration
-======
+-----
 I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested.
 
 ------
