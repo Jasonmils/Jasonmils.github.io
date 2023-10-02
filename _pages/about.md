@@ -21,18 +21,20 @@ Research Interest
 - energy informatic
 - time series forecast
 
-
 Education Background
 ======
 * B.S. in Communication Engineering, Wuhan University of Technology, 2021
 * M.S. in Renewable Energy Science & Engineering, Huazhong University of Science and Technology, 2024 (expected)
 * M.S. in Clean and Renewable Energy, Université PSL, 2024 (expected)
 
+Collaboration
+======
+I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested.
+
 ------
-Photography:
+**Photography:**
+*Great View in Marina Bay, Singapore*
 ![Great View in Marina Bay, Singapore](/images/singapore.jpg)
 
-Collaboration
-------
-I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested.
+
 
