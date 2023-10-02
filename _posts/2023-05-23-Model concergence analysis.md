@@ -22,12 +22,14 @@ Then, we can infer the following Property. ([[Difference about lemmas, theorem, 
 $$f(x)-f(y) \leq \nabla f(x)^{\top}(x-y)-\frac{1}{2 L}\|\nabla f(x)-\nabla f(y)\|^2$$
 ### Convergence Analysis of the L-smooth convex optimization problem
 The main target of convergence analysis is to prove $x^{t+1}$ is closer to the optimal $x^*$ than $x^t$. 
-Thus, we can use Eucidean distance in gradient descent optimization solver to measure the proximity as: $$\begin{aligned}
+Thus, we can use Eucidean distance in gradient descent optimization solver to measure the proximity as: 
+$$\begin{aligned}
 \left\|x^{t+1}-x^*\right\|^2&=\left\|x^t-\eta \nabla f\left(x^t\right)-x^*\right\|^2 \\
 &=\left\|x^t-x^*\right\|^2-2 \eta \nabla f\left(x^t\right)^{\top}\left(x^t-x^*\right)+\eta^2\left\|\nabla f\left(x^t\right)\right\|^2
 \end{aligned}$$^a1itzw
 ### Prove the convergence
-We have ![[Model concergence analysis#Property 1 Inferred from L-smooth]] Hence, we can infer that $$0\leq f(x^t)-f(x^*)\leq \nabla f(x^t)^{\top}(x^t-x^*)-\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$ Then: $$\nabla f(x^t)^{\top}(x^t-x^*)\geq\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$From ![[Model concergence analysis#^a1itzw]]we can obtain $$\begin{aligned}
+We have ![[Model concergence analysis#Property 1 Inferred from L-smooth]] Hence, we can infer that 
+$$0\leq f(x^t)-f(x^*)\leq \nabla f(x^t)^{\top}(x^t-x^*)-\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$ Then: $$\nabla f(x^t)^{\top}(x^t-x^*)\geq\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$From ![[Model concergence analysis#^a1itzw]]we can obtain $$\begin{aligned}
 \left\|x^{t+1}-x^*\right\|^2
 &=\left\|x^t-x^*\right\|^2-2 \eta \nabla f\left(x^t\right)^{\top}\left(x^t-x^*\right)+\eta^2\left\|\nabla f\left(x^t\right)\right\|^2 \\
 &\leq \Vert x^t-x^*\Vert^2 -\frac{\eta}{L}\Vert\nabla f(x^t)\Vert^2+\eta^2\left\|\nabla f\left(x^t\right)\right\|^2\\
@@ -35,11 +37,9 @@ We have ![[Model concergence analysis#Property 1 Inferred from L-smooth]] Hence,
 \end{aligned}$$ Therefore, if the $\frac{1}{L}> \eta$ , we can safely assert that $$\left\|x^{t+1}-x^*\right\|^2
 \leq\left\|x^t-x^*\right\|^2$$which proves the **convergence**.
 
->[!Info]
 >This is a convex optimization with no constraint case. More detail about the other cases is avaible at [Convergence Analysis - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/412118471)
 
 
->[!Alert]
 >Also, the convergence rate analysis is not included, including the O,Omega and Pi analysis are  out of scope in this blog. However, it should be specified in the future blogs.
 
 

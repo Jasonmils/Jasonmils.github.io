@@ -31,13 +31,16 @@ $$
 $$
 \mathbb{E}[\nabla x_i^{(t,k)}|x_i^{(t,k)}]=\nabla F_i(x_i^{(t,k)})
 $$Given a dataset of $D_i = \{(\mathcal{x}_i,\mathcal{y}_i)\}_{i=0}^N$ , where the N denotes the length of the whole dataset. The objective of the GD and its gradients are calculated as:
+
 $$
 \begin{align}
 			F_i(x_i^{(t,k)}) = \frac{1}{N}\sum_{i=1}^{N}\mathcal{L}(\phi(\mathcal{x}_i),\mathcal{y}_i) \\
 			\nabla F_i(x_i^{(t,k)}) =\frac{1}{N}\sum_{i=1}^{N}\nabla\mathcal{L}(\phi(\mathcal{x}_i),\mathcal{y}_i) 
 			\end{align}
 $$
+
 			In this case, the expectation is the **weighted average of a single batch** with `batchsize` as *bn*, i.e., 
+
 $$
 			\begin{align}
 	\mathbb{E}\left[\nabla x_i^{(t,k)}|x_i^{(t,k)}\right] &= \sum^{N-bn+1}_{j=1} \left(\sum_{i=1}^{bn}{\frac{\partial \mathcal{L}}{\partial x_{i,s_j}^{(t,k)}}}\cdot P(I=i|S=s_j)\right)\cdot P(S=s_j) \\
@@ -67,10 +70,12 @@ Note that $\mathbb{E}$ in this paper denotes $\mathbb{E}_{i\sim \mathcal{C}}$ , 
 
 **Decentralized optimization**:
 Originated from the decentralized optimization, we derive the *shadow sequence* to indicate the uodate process.
+
 $$
 \overline{x}^{(t,k)}:=\frac{1}{M}\sum^{M}_{i=1}{x_i^{(t,k)}}
 $$
 Then, at round $t$ local epoch $k+1$, $$\overline{x}^{(t,k+1)}= \overline{x}^{(t,k)}-\eta \frac{1}{M}\sum^{M}_{i=1}{x_i^{(t,k)}}$$ 
+
 ### Two lemmas to facilitate the convergence proof
 This paper want to prove the **Theorem** as follows. $$\mathbb{E}\left[\frac{1}{\tau T} \sum_{t=0}^{T-1} \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\right] \leq \text { an upper bound decreasing with } T \text {. }$$**Lemma1** the paper proves that the expectation for each round is bounded.
 $$\mathbb{E}\left[\frac{1}{\tau}  \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\bigg|\mathcal{F}^{(t,0)}\right] \leq Bound$$
