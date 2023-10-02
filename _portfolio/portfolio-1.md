@@ -1,6 +1,6 @@
 ---
 title: "Deep learning-based Day-ahead Electricity Price Forecast"
-excerpt: "Short description <br/><img src='/images/Introduction.png' width="60%">"
+excerpt: "Short description <br/><img src='/images/Introduction.png' width='60%'>"
 collection: portfolio
 ---
 

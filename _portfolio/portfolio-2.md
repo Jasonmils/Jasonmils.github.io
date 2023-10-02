@@ -1,6 +1,6 @@
 ---
 title: "Multi-entity Wind Power Forecast Considering Privacy"
-excerpt: "Short description <br/><img src='/images/FL.png' width="60%">"
+excerpt: "Short description <br/><img src='/images/FL.png'>"
 collection: portfolio
 ---
 
