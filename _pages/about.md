@@ -8,27 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student from Huazhong University of Science and Technology[academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) 
+I am currently a final-year master student from Huazhong University of Science and Technology, advised by [Prof. Yuanzheng Li](https://ieeexplore.ieee.org/author/37085523933). My research interest lie broadly in machine learning, optimization for renewable power systems operation, with a special focus on wind power forecast.
 
-A data-driven personal website
+<!-- Recently, I am developing structured neural network-based controllers with provably guarantees on stability and steady-state efficiency for large-scale systems. I’m also working on efficient algorithums to overcome the challenges on sample complexity and explorations in learning for real-world applications (e.g., power systems). -->
+
+Research Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- machine learning, deep learning
+- federated graph learning
+- representation learning
+- renewable power system operation
+- energy informatic
+- time series forecast
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
 ------
+Education Background
+======
+* B.S. in Communication Engineering, Wuhan University of Technology, 2021
+* M.S. in Renewable Energy Science & Engineering, Huazhong University of Science and Technology, 2024 (expected)
+* M.S. in Clean and Renewable Energy, Université PSL, 2024 (expected)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Photography:
+![Great View in Marina Bay, Singapore](/images/singapore.jpg)
+
+Collaboration
+------
+I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested.
+
