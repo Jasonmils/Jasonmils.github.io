@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yizhou (Jason) Ding/ Self Introduction"
+title                    : "Yizhou (Jason) Ding/ Biography"
 title_separator          : "-"
 name                     : &name "Yizhou (Jason)  Ding"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "https://stackoverflow.com/users/17882545/jasonmils"
   steam            : "Jasonmils"
   tumblr           :
-  twitter          : "https://twitter.com/Jasondean11111"
+  twitter          : "Jasondean11111"
   vine             :
   weibo            :
   xing             :
