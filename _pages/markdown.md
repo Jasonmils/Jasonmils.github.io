@@ -1,13 +1,19 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "News"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Publication
+* 2023-9-22: My co-written paper titled "A Demand-Supply Cooperative Responding Strategy in Power System with High Renewable Energy Penetration" is accepted in *IEEE Transactions on Control Systems Techonology*
+* 2022-10-12: My paper titled "Dense skip attention based deep learning for day-ahead electricity price forecasting" is accepted in *IEEE Transactions on Power Systems*
+
+
+
+<!-- ## Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -145,9 +151,9 @@ The abbreviation CSS stands for "Cascading Style Sheets".
 
 ### Cite Tag
 
-"Code is poetry." ---<cite>Automattic</cite>
+"Code is poetry." ---<cite>Automattic</cite> -->
 
-### Code Tag
+<!-- ### Code Tag
 
 You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
 
@@ -199,4 +205,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
