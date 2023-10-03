@@ -32,10 +32,10 @@ Collaboration
 -----
 I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested.
 
-------
+
 **Photography:**
-*Great View in Marina Bay, Singapore*
-![Great View in Marina Bay, Singapore](/images/singapore.jpg)
+*A nice Cafe in JuLu Road, Shanghai*
+![Great View in Marina Bay, Singapore](/images/SH.jpg)
 
 
 <head> 

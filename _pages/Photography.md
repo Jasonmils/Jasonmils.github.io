@@ -6,7 +6,11 @@ redirect_from:
   - /md/
 ---
 
-# Photography
-
 *Great View in Marina Bay, Singapore*
 ![Great View in Marina Bay, Singapore](/images/singapore.jpg)
+
+*Orchard Road, Singapore*
+![Great View in Marina Bay, Singapore](/images/orchard.jpg)
+
+*Pepulse Bay, Hong Kong*
+![Great View in Marina Bay, Singapore](/images/HK.jpg)
