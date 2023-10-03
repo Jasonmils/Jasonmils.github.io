@@ -2,7 +2,7 @@
 title: "A Demand-Supply Cooperative Responding Strategy in Power System with High Renewable Energy Penetration"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ''
+excerpt: 'Yuanzheng Li, Xinxin Long, Yang Li, **Yizhou Ding**, Tao Yang, Zhigang Zeng'
 date: 2023-10-01
 venue: 'IEEE Transactions on Control System Technology'
 paperurl: 'https://arxiv.org/abs/2309.14608'
