@@ -3,7 +3,7 @@ title: "A Demand-Supply Cooperative Responding Strategy in Power System with Hig
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2022-10-01
+date: 2023-10-01
 venue: 'IEEE Transactions on Control System Technology'
 paperurl: 'https://arxiv.org/abs/2309.14608'
 citation:
