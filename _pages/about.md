@@ -12,7 +12,7 @@ I am currently a final-year master student from Huazhong University of Science a
 
 <!-- Recently, I am developing structured neural network-based controllers with provably guarantees on stability and steady-state efficiency for large-scale systems. I’m also working on efficient algorithums to overcome the challenges on sample complexity and explorations in learning for real-world applications (e.g., power systems). -->
 
-<i class="fa fa-download" aria-hidden="true"></i> Download my [CV](http://jasonmils.github.io/files/Yizhou_CV.pdf) here.
+<i class="fa fa-download" aria-hidden="true"></i> Download my [CV](http://jasonmils.github.io/files/Yizhou_CV_for_PhD.pdf) here.
 
 Research Interest
 -----
