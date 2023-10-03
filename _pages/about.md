@@ -30,8 +30,11 @@ Education Background
 
 Collaboration
 -----
-I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested 😊.
+I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested😊.
 
+Hobby
+-----
+I love dogs🐕 and coffee☕, and enjoy jazz&blues🎶, taking photos📷 and aesthetic design📷. I also love to chat with all kinds of people.
 **Photography:**
 *A nice Cafe in JuLu Road, Shanghai*
 <br/><img src='/images/SH.jpg' width='60%'>
