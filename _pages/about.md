@@ -24,9 +24,9 @@ Research Interest
 
 Education Background
 -----
-* <i class="fa fa-graduation-cap" aria-hidden="true"></i> B.S. in Communication Engineering, Wuhan University of Technology, 2021
-* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Renewable Energy Science & Engineering, Huazhong University of Science and Technology, 2024 (expected)
-* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Clean and Renewable Energy, Université PSL, 2024 (expected)
+* <i class="fa fa-graduation-cap" aria-hidden="true"></i> B.S. in Communication Engineering, *Wuhan University of Technology*, 2021
+* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Renewable Energy Science & Engineering, *Huazhong University of Science and Technology*, 2024 (expected)
+* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Clean and Renewable Energy, *Université PSL*, 2024 (expected)
 
 Collaboration
 -----
