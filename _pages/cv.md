@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication Engineering, Wuhan University of Technology, 2021
+* M.S. in Renewable Energy Science & Engineering, Huazhong University of Science and Technology, 2024 (expected)
+* M.S. in Clean and Renewable Energy, Université PSL, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Intern
+  * FiberHome Co. Ltd
+  * Duties included: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
