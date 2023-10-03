@@ -35,8 +35,9 @@ I’m open to any forms of collaborations. We welcome undergraduates, postgradua
 Hobby
 -----
 I love dogs🐕 and coffee☕, and enjoy jazz&blues🎶, taking photos📷 and aesthetic design📷. I also love to chat with all kinds of people.
+
 **Photography:**
-*A nice Cafe in JuLu Road, Shanghai*
+<br/>*A nice Cafe in JuLu Road, Shanghai*
 <br/><img src='/images/SH.jpg' width='60%'>
 
 
