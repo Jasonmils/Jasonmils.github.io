@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year master student from Huazhong University of Science and Technology, advised by [Prof. Yuanzheng Li](https://ieeexplore.ieee.org/author/37085523933). My research interest lie broadly in machine learning, optimization for renewable power systems operation, with a special focus on wind power forecast.
+I am currently a final-year master student from Huazhong University of Science and Technology, advised by [Prof. Yuanzheng Li](https://ieeexplore.ieee.org/author/37085523933). My research interests lie broadly in machine learning, optimization for renewable power systems operation, with a special focus on wind power forecast.
 
 <!-- Recently, I am developing structured neural network-based controllers with provably guarantees on stability and steady-state efficiency for large-scale systems. I’m also working on efficient algorithums to overcome the challenges on sample complexity and explorations in learning for real-world applications (e.g., power systems). -->
 
@@ -24,13 +24,13 @@ Research Interest
 
 Education Background
 -----
-* <i class="fa fa-graduation-cap" aria-hidden="true"></i> B.S. in Communication Engineering, *Wuhan University of Technology*, 2021
-* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Renewable Energy Science & Engineering, *Huazhong University of Science and Technology*, 2024 (expected)
-* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Clean and Renewable Energy, *Université PSL*, 2024 (expected)
+* <i class="fa fa-graduation-cap" aria-hidden="true"></i> B.S. in Communication Engineering, [*Wuhan University of Technology*](https://www.whut.edu.cn/), 2021
+* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Renewable Energy Science & Engineering, [*Huazhong University of Science and Technology*](https://www.hust.edu.cn/), 2024 (expected)
+* <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Clean and Renewable Energy, [*Université PSL*](https://psl.eu/en), 2024 (expected)
 
 Collaboration
 -----
-I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested.
+I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested .
 
 
 **Photography:**
