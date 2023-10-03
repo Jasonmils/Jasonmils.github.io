@@ -11,25 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Communication Engineering, Wuhan University of Technology, 2021
-* M.S. in Renewable Energy Science & Engineering, Huazhong University of Science and Technology, 2024 (expected)
-* M.S. in Clean and Renewable Energy, Université PSL, 2024 (expected)
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> B.Eng. in Communication Engineering, [*Wuhan University of Technology*](https://www.whut.edu.cn/), 2021
+<br/><i class="fa fa-graduation-cap" aria-hidden="true"></i> M.Eng. in Renewable Energy Science & Engineering, [*Huazhong University of Science and Technology*](https://www.hust.edu.cn/), 2024
+<br/><i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Clean and Renewable Energy, [*Université PSL*](https://psl.eu/en), 2024
 
 Work experience
 ======
 * Summer 2021: Intern
   * FiberHome Co. Ltd
-  * Duties included: 
+  * Duties included: Optical communication device operation.
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab, Python, C, Latex, Verilog
 
 Publications
 ======
@@ -51,4 +46,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer in *IEEE Transactions on Intelligent Vehicles*
+* Reviewer in *Applied Energy*
