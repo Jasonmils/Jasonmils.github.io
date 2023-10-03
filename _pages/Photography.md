@@ -7,10 +7,10 @@ redirect_from:
 ---
 
 *Great View in Marina Bay, Singapore*
-![Great View in Marina Bay, Singapore](/images/singapore.jpg)
+<br/><img src='/images/singapore.jpg' width='60%'>
 
 *Orchard Road, Singapore*
-![Great View in Marina Bay, Singapore](/images/orchard.jpg)
+<br/><img src='/images/orchard.jpg' width='60%'>
 
-*Pepulse Bay, Hong Kong*
-![Great View in Marina Bay, Singapore](/images/HK.jpg)
+*Repulse Bay, Hong Kong*
+<br/><img src='/images/HK.jpg' width='60%'>

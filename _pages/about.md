@@ -35,7 +35,7 @@ I’m open to any forms of collaborations. We welcome undergraduates, postgradua
 
 **Photography:**
 *A nice Cafe in JuLu Road, Shanghai*
-![Great View in Marina Bay, Singapore](/images/SH.jpg)
+<br/><img src='/images/SH.jpg' width='50%'>
 
 
 <head> 
