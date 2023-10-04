@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A python script to extract NREL wind power dataset via url links
 date: 2022-05-31 10:18 +0800
 last_modified_at: 2022-05-31 01:08:25 +0800

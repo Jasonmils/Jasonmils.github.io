@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bayesian Regression
 date: 2022-05-13 10:18
 last_modified_at: 2022-05-14 01:08:25 +0800
