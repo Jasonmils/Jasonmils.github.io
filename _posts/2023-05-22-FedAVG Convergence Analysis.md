@@ -66,8 +66,10 @@ $$
 ---
 
 ## How do we measure the convergence of the FedAVG?
-Generally, we want to prove that $$\|F(x^{(t,k+1)})-F(x^*)\|\leq\|F(x^{(t,k)})-F(x^*)\| , \forall t,k \in [1,2,3,\cdots]$$,where $F(x^*)$ is the optimal. Or, we give a weaker claim:
-$$\mathbb{E}\left[\frac{1}{\tau T} \sum_{t=0}^{T-1} \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\right] \leq \text { an upper bound decreasing with } T \text {. }$$ 
+Generally, we want to prove that 
+$$\|F(x^{(t,k+1)})-F(x^*)\|\leq\|F(x^{(t,k)})-F(x^*)\| , \forall t,k \in [1,2,3,\cdots]$$
+where $F(x^*)$ is the optimal. Or, we give a weaker claim:
+$$\mathbb{E}\left[\frac{1}{\tau T} \sum_{t=0}^{T-1} \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\right] \leq \text{ an upper bound decreasing with } T \text {. }$$ 
 
 Note that $\mathbb{E}$ in this paper denotes $\mathbb{E}_{i\sim \mathcal{C}}$ , where $\mathcal{C}$ denotes the client set. Therefore, we can say that the $\mathbb{E}$ is *generally calculating the expectation over all the clients*.
 
