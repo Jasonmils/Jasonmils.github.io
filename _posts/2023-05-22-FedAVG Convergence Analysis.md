@@ -2,7 +2,7 @@
 title: Convergence Analysis of the Federated Learning
 date: 2023-05-31 10:18 +0800
 last_modified_at: 2023-06-22 01:08:25 +0800
-tags: [Federated_Learning, DeepLearning ]
+tags: [federated learning, deep learning,convergence]
 math: true
 toc:  true
 ---
@@ -38,7 +38,7 @@ $$
 			\end{align}
 $$
 
-			In this case, the expectation is the **weighted average of a single batch** with `batchsize` as *bn*, i.e., 
+In this case, the expectation is the **weighted average of a single batch** with `batchsize` as *bn*, i.e., 
 
 $$
 			\begin{align}
@@ -50,10 +50,13 @@ $$
 	\end{align} \tag{1}
 $$ 
 	where batch set is $S = \{s_1,\cdots,s_{bn}\}$.**Note:** *SGD* or *Adam* is a stochastic optimzation algorithm that select the samples from the batch randomly for gradient calculation.
+
 3. **Property 2: Bounded variance**: 
 $$
 \mathbb{E}\left[\left\Vert\nabla x_i^{(t,k)}-\nabla F_i(x_i^{(t,k)})\right\Vert^2|x_i^{(t,k)}\right] \leq \sigma^2
-$$ *This is to say, the gradient of the SGD is close to the gradient of the GD*
+$$ 
+*This is to say, the gradient of the SGD is close to the gradient of the GD*
+
 ## Data heterogeneity/similarity across clients
 Local gradient $\nabla F_i(x)$ and global gradient $\nabla F(x)$ is $\zeta$ - uniformly bounded.  
 $$
@@ -65,7 +68,8 @@ $$
 ## How do we measure the convergence of the FedAVG?
 Generally, we want to prove that $$\|F(x^{(t,k+1)})-F(x^*)\|\leq\|F(x^{(t,k)})-F(x^*)\| , \forall t,k \in [1,2,3,\cdots]$$,where $F(x^*)$ is the optimal. Or, we give a weaker claim:
 $$\mathbb{E}\left[\frac{1}{\tau T} \sum_{t=0}^{T-1} \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\right] \leq \text { an upper bound decreasing with } T \text {. }$$ 
-Note that $\mathbb{E}$ in this paper denotes $\mathbb{E}_{i\sim \mathcal{C}}$ , where $\mathcal{C}$ denotes the client set. Therefore, we can say that the *$\mathbb{E}$ is generally calculating the expectation over all the clients*.
+
+Note that $\mathbb{E}$ in this paper denotes $\mathbb{E}_{i\sim \mathcal{C}}$ , where $\mathcal{C}$ denotes the client set. Therefore, we can say that the $\mathbb{E}$ is *generally calculating the expectation over all the clients*.
 
 **Decentralized optimization**:
 Originated from the decentralized optimization, we derive the *shadow sequence* to indicate the uodate process.
@@ -73,17 +77,24 @@ Originated from the decentralized optimization, we derive the *shadow sequence* 
 $$
 \overline{x}^{(t,k)}:=\frac{1}{M}\sum^{M}_{i=1}{x_i^{(t,k)}}
 $$
-Then, at round $t$ local epoch $k+1$, $$\overline{x}^{(t,k+1)}= \overline{x}^{(t,k)}-\eta \frac{1}{M}\sum^{M}_{i=1}{x_i^{(t,k)}}$$ 
+Then, at round $t$ local epoch $k+1$, 
+$$\overline{x}^{(t,k+1)}= \overline{x}^{(t,k)}-\eta \frac{1}{M}\sum^{M}_{i=1}{x_i^{(t,k)}}$$ 
 
 ### Two lemmas to facilitate the convergence proof
-This paper want to prove the **Theorem** as follows. $$\mathbb{E}\left[\frac{1}{\tau T} \sum_{t=0}^{T-1} \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\right] \leq \text { an upper bound decreasing with } T \text {. }$$**Lemma1** the paper proves that the expectation for each round is bounded.
+This paper want to prove the **Theorem** as follows. 
+$$\mathbb{E}\left[\frac{1}{\tau T} \sum_{t=0}^{T-1} \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\right] \leq \text { an upper bound decreasing with } T \text {. }$$
+
+**Lemma1** the paper proves that the expectation for each round is bounded.
 $$\mathbb{E}\left[\frac{1}{\tau}  \sum_{k=1}^\tau F\left(\overline{\boldsymbol{x}}^{(t, k)}\right)-F\left(\boldsymbol{x}^{\star}\right)\bigg|\mathcal{F}^{(t,0)}\right] \leq Bound$$
+
 **Lemma2** the paper proves that the *Bound* in the lemma 1 is decreasing with T.
 Specific prove is available in [Paper]("C:\Users\jason\Zotero\storage\C4RSHTSA\Wang 等。 - 2021 - A Field Guide to Federated Optimization.pdf")
 
 ## Why this paper evaluate the expection instead of loss decrease in each step?
 Our guess is that each-step loss may not decrease with T, but its expectation is bounded. Lets prove it in the following paragraphs.
 ### Prove of the step-by-step decrease in loss function
-We want to prove the Theorem that $$\|F(x^{(t,k+1)})-F(x^*)\|\leq\|F(x^{(t,k)})-F(x^*)\| , \forall t,k \in [1,2,3,\cdots]$$ we spilt into two therom
+We want to prove the Theorem that 
+$$\|F(x^{(t,k+1)})-F(x^*)\|\leq\|F(x^{(t,k)})-F(x^*)\| , \forall t,k \in [1,2,3,\cdots]$$
+ we spilt into two therom
 
 
