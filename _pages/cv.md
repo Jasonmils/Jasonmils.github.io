@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2021: Intern
-  * FiberHome Co. Ltd
+* Summer 2021: Intern in FiberHome Co. Ltd
   * Duties included: Optical communication device operation.
 
   
