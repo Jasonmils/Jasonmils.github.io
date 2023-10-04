@@ -46,5 +46,11 @@ Teaching
   
 Service and leadership
 ======
+**Academic Service**
 * Reviewer in *IEEE Transactions on Intelligent Vehicles*
 * Reviewer in *Applied Energy*
+
+**Professional Service**
+* IEEE Graduate Student Member
+* IEEE Computational Intelligence Society Member
+* IEEE Power and Energy Society Member
