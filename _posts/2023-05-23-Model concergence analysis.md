@@ -35,8 +35,13 @@ $$\begin{aligned}
 \end{aligned}$$
 
 ### Prove the convergence
-We have ![[Model concergence analysis#Property 1 Inferred from L-smooth]] Hence, we can infer that 
-$$0\leq f(x^t)-f(x^*)\leq \nabla f(x^t)^{\top}(x^t-x^*)-\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$ Then: $$\nabla f(x^t)^{\top}(x^t-x^*)\geq\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$From ![[Model concergence analysis#^a1itzw]]we can obtain $$\begin{aligned}
+We can infer that 
+$$0\leq f(x^t)-f(x^*)\leq \nabla f(x^t)^{\top}(x^t-x^*)-\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$ 
+Then: 
+$$\nabla f(x^t)^{\top}(x^t-x^*)\geq\frac{1}{2 L}\|\nabla f(x^t)-\nabla f(x^**)\|^2$$
+
+From ![[Model concergence analysis#^a1itzw]]we can obtain 
+$$\begin{aligned}
 \left\|x^{t+1}-x^*\right\|^2
 &=\left\|x^t-x^*\right\|^2-2 \eta \nabla f\left(x^t\right)^{\top}\left(x^t-x^*\right)+\eta^2\left\|\nabla f\left(x^t\right)\right\|^2 \\
 &\leq \Vert x^t-x^*\Vert^2 -\frac{\eta}{L}\Vert\nabla f(x^t)\Vert^2+\eta^2\left\|\nabla f\left(x^t\right)\right\|^2\\
