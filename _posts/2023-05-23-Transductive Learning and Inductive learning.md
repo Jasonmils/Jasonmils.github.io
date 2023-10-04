@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Difference between Transductive and Inductive Learning
 date: 2023-05-31 10:18
-permalink: /posts/2012/08/blog-post-4/
 last_modified_at: 2023-05-31 01:08:25 +0800
 tags: 
     - Transductive
