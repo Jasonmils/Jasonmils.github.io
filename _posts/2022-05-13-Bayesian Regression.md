@@ -94,7 +94,6 @@ print("The classifying accuracy of Naive Bayesian is :",Classify.score(x_test,y_
 [Results]:
 The training accuracy of Naive Bayesian is : 0.35
 The classifying accuracy of Naive Bayesian is : 0.26666666666666666
-{% endhighlight %}
 ```
 
 >  可见朴素贝叶斯的分类的准确度并不是很高，需要进一步提升，因为Iris 数据集的标签为 0，1，2，3. 则我们想到可以改变 朴素贝叶斯的二值化阈值 （Binarize）来提升性能。
