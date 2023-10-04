@@ -2,7 +2,7 @@
 title: A python script to extract NREL wind power dataset via url links
 date: 2022-05-31 10:18 +0800
 last_modified_at: 2022-05-31 01:08:25 +0800
-tags: [Python, Dataset]
+tags: [Python, Dataset,Wind Power]
 math: true
 toc:  true
 ---
@@ -24,12 +24,12 @@ Second, open our master-branch as a pycharm project and run `Fetch_data.py`
 
 In this file, we can set the default url as: 
 
-``` python
+``` 
 WTK_URL = "https://f9g6p4cbvi.execute-api.us-west-2.amazonaws.com/prod"
 ```
 
 Then, we can select a polygon region (Longitude and Latitude) as follows to access the wind farm data within this region.
-``` python
+``` 
 Selected_loc = ["POLYGON((-123 42, -121.25 42,  -121.5 41.2 , -123 41.2, -123 42))",  
                 "POLYGON((-114 32, -115 32,  -115 34 "  
                 ", -114 34, -114 32))"]
@@ -48,7 +48,7 @@ for region in Selected_idx:
 
 To extract the speific wnid power data from the url with corresponding timestamps and save them as `csv`, we can use the following operation:
 
-``` python
+``` 
 for region in Selected_idx:  
     # extract the gid from the  
     gid_index = np.array(sites_selected[region]['gid'])  
