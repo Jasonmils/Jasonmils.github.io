@@ -3,9 +3,11 @@ layout: post
 title: Difference between Transductive and Inductive Learning
 date: 2023-05-31 10:18 +0800
 last_modified_at: 2023-05-31 01:08:25 +0800
-tags: [Transductive, Inductive,learning]
+tags: 
+    - Transductive
+    - Inductive
+    - learning
 math: true
-toc:  true
 ---
 
 ---
