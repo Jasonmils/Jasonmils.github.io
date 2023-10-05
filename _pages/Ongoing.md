@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
 ---
-
+This page records what I am currently occupied with, including something I am doing, and something I want to do. I find it a very motivating process via committing to this website.
 
 ```mermaid
 gantt
