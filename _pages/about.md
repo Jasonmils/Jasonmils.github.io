@@ -30,7 +30,9 @@ Education Background
 
 Collaboration
 -----
-I’m open to any forms of collaborations. We welcome undergraduates, postgraduates, or other potential PhD applicants to visit our research group. Feel free to drop me an [email](jasondean910@outlook.com) if you are interested😊.
+<!-- Collaboration always embark new ideas. I’m open to any forms of collaborations. Please feel free to drop me an [email](jasondean910@outlook.com) if you are interested😊.  -->
+
+<span style="color:blue">**Collaboration is a wonderful opportunity to explore fresh ideas and expand our horizons.** I wholeheartedly embrace collaborations with people around the world in any form and capacity. Please do not hesitate to reach out to me via [email](jasondean910@outlook.com); I would be delighted to hear from you guys😊.</span>
 
 Hobby
 -----
