@@ -5,9 +5,11 @@ author_profile: true
 redirect_from: 
   - /md/
 ---
-This page records what I am currently occupied with, including something I am doing, and something I want to do. I find it a very motivating process via committing to this website.
+<!-- This page records what I am currently occupied with, including something I am doing, and something I want to do. I find it a very motivating process via committing to this website. -->
 
-```mermaid
+> This page is currently under maintainance, will be back soon with [mermaid](http://mermaid.js.org/config/usage.html).
+
+<!-- ```mermaid
 gantt
 
        dateFormat                YYYY-MM-DD
@@ -37,7 +39,7 @@ gantt
        Describe gantt syntax               :after doc1, 3d
        Add gantt diagram to demo page      :20h
        Add another diagram to demo page    :48h
-```
+``` -->
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
   mermaid.initialize({ startOnLoad: true });
