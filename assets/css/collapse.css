@@ -16,10 +16,10 @@
     padding : 5px;
 }
 
-#floating-box {
+/* #floating-box {
     position: fixed;
     top: 50%;
     right: 20px;
     transform: translateY(-50%);
     z-index: 9999;
-}
+} */
