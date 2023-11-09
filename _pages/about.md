@@ -47,8 +47,9 @@ I love dogs🐕 and coffee☕, and enjoy jazz&blues🎶, taking photos📷 and a
 
 <style> .badge-base { position: fixed; right: 20px; top: 80px; } </style> 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
-<style scoped> .badge-base, .badge-base__link { font-size: 16px; } </style>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yizhou-ding-a058781b2" data-version="v1"> <a class="badge-base__link LI-simple-link" href="https://cn.linkedin.com/in/yizhou-ding-a058781b2?trk=profile-badge">Yizhou DING</a> </div>
+<style scoped> .badge-base, .badge-base__link { font-size: 16px; } </style>
 
 <head> 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
