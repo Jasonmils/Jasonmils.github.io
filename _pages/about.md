@@ -42,7 +42,9 @@ I love dogs🐕 and coffee☕, and enjoy jazz&blues🎶, taking photos📷 and a
 <br/>*A nice Cafe in JuLu Road, Shanghai*
 <br/><img src='/images/SH.jpg' width='60%'>
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yizhou-ding-a058781b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cn.linkedin.com/in/yizhou-ding-a058781b2?trk=profile-badge">Yizhou DING</a></div>
+              
 <head> 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
