@@ -47,8 +47,8 @@ I love dogs🐕 and coffee☕, and enjoy jazz&blues🎶, taking photos📷 and a
 
 <style> .badge-base { position: fixed; right: 20px; top: 80px; } </style> 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
-<style> .linkedin-profile-badge { font-size: inherit; } </style>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="light" data-type="VERTICAL" data-vanity="yizhou-ding-a058781b2" data-version="v1"> <a class="badge-base__link LI-simple-link" href="https://cn.linkedin.com/in/yizhou-ding-a058781b2?trk=profile-badge">Yizhou DING</a> </div>
+<style scoped> .badge-base, .badge-base__link { font-size: 16px; } </style>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yizhou-ding-a058781b2" data-version="v1"> <a class="badge-base__link LI-simple-link" href="https://cn.linkedin.com/in/yizhou-ding-a058781b2?trk=profile-badge">Yizhou DING</a> </div>
 
 <head> 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
@@ -57,6 +57,7 @@ I love dogs🐕 and coffee☕, and enjoy jazz&blues🎶, taking photos📷 and a
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
 <a href="https://info.flagcounter.com/jgt8"><img src="https://s01.flagcounter.com/count2/jgt8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 <!-- <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.3.4/lib/darkmode-js.min.js"></script>
 <script>
