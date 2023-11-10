@@ -12,7 +12,8 @@ redirect_from:
 * 2022-10-12: My paper titled "Dense skip attention based deep learning for day-ahead electricity price forecasting" is accepted in *IEEE Transactions on Power Systems*
 
 ## Award & Honor
-* 2023-5-23: 
+* 2023-11-10: Awarded National Scholarship
+* 2023-11-04: Our team named "PowerNetGenius" is Awarded National First Prize (Top 0.9%) in [China Graduate Contest on Smart-City Technology and Creative Design](https://cpipc.acge.org.cn/cw/hp/1)
 
 
 <!-- ## Locations of key files/directories
