@@ -43,7 +43,7 @@ redirect_from:
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
+## Markdown guides
 
 ### Header three
 
