@@ -40,7 +40,28 @@ gantt
        Add gantt diagram to demo page      :20h
        Add another diagram to demo page    :48h
 ``` -->
-<script type="module">
+<!-- <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
   mermaid.initialize({ startOnLoad: true });
-</script>
+</script> -->
+
+<head>
+  <script src="https://unpkg.com/mermaid@8.2.4/dist/mermaid.min.js"></script>
+</head>
+
+<div id="gantt">
+gantt
+  title A Gantt Diagram
+  dateFormat  YYYY-MM-DD
+  section Section
+  Completed :done,    des1, 2014-01-01, 2014-01-05
+  Active :active, des2, 2014-01-06, 2014-01-08
+  Section 2
+  Approved : valid, des3, 2014-01-09, 2014-01-12
+  Review : active, des4, 2014-01-13, 2014-01-16
+  section Future
+  Planning : future, des5, 2014-01-17, 2014-01-20
+  Execution : future, des6, 2014-01-21, 2014-02-01
+</div>
+
+mermaid.initialize({startOnLoad:true});
