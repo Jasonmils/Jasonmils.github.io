@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-10-01-paper-title-number-3
 excerpt: 'Yuanzheng Li, **Yizhou Ding**, Shangyang He, Yang Li, Chi-yung Chung, Zhigang Zeng'
 date: 2023-12-01
-venue: 'IEEE Transactions on Sustainable Energy'
+venue: ''
 paperurl: ''
 citation:
 ---
