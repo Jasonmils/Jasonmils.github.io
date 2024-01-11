@@ -6,7 +6,7 @@ excerpt: 'Yuanzheng Li, Xinxin Long, Yang Li, **Yizhou Ding**, Tao Yang, Zhigang
 date: 2023-10-01
 venue: 'IEEE Transactions on Control System Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10360386'
-citation: Li, Y., Ding, Y., Liu, Y., Yang, T., Wang, P., Wang, J., & Yao, W. (2022). Dense skip attention based deep learning for day-ahead electricity price forecasting. IEEE Transactions on Power Systems.
+citation:
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work.
 
