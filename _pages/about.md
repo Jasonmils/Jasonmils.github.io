@@ -59,7 +59,13 @@ I love dogs🐕 and coffee☕, and enjoy jazz&blues🎶, taking photos📷 and a
 
 <a href="https://info.flagcounter.com/jgt8"><img src="https://s01.flagcounter.com/count2/jgt8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "l8wwrt7dy4");
+</script>
 <!-- <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.3.4/lib/darkmode-js.min.js"></script>
 <script>
   new Darkmode().showWidget();
